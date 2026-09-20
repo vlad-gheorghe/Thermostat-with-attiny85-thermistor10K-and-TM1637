@@ -10,3 +10,5 @@ My work: https://vlad-gheorghe.blogspot.com/2026/09/termostat-reglabil-cu-attiny
 ![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/IMG20260920182001.jpg)
 
 ![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/IMG20260920182955.jpg)
+
+![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/th-attiny-sch.png)
