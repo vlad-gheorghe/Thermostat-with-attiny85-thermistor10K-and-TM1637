@@ -6,3 +6,5 @@ The code is optimized using Gemini AI.
 ![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/IMG20260920114312.jpg)
 
 ![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/IMG20260920182001.jpg)
+
+![poza](https://github.com/vlad-gheorghe/Thermostat-with-attiny85-thermistor10K-and-TM1637/blob/main/IMG20260920182955.jpg)
